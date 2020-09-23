@@ -1,0 +1,81 @@
+.choose {
+    padding-left: 40px;
+    font-family: 'Anton', sans-serif;
+}
+.d {
+    font-family: 'Fira Sans', sans-serif;
+}
+.dic {
+    padding-left: 40px;
+}
+.gtt {
+    font-family: 'Anton', sans-serif;
+    padding-left: 40px;
+}
+.boss {
+    text-align: center;
+    color: black;
+}
+.stark {
+    padding-left: 40px;
+}
+hr {
+    width: 30%;
+    border: 1px solid red;
+    border-style: dotted;
+}
+.dess {
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
+    color: black;
+}
+.demo2 {
+    padding-left: 50px;
+}
+.domain {
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
+    color: black;
+}
+.follow {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
+.media {
+    margin-left: 40px;
+}
+.px {
+    margin-left: 47%;
+}
+.fol2 li {
+    list-style: none;
+}
+.pc {
+    margin-left: 47%;
+}
+.col {
+    background: gray;
+}
+.creator {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 30px;
+}
+#img {
+    text-align: center;
+    font-family: sans-serif;
+}
+.fixed-top {
+    background: white;
+}
+.href {
+    color: orange;
+}
+.href:hover {
+    color: orangered;
+    text-decoration: none;
+}

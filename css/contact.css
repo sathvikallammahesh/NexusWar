@@ -1,0 +1,9 @@
+.fixed-top {
+    background: white;
+}
+.contact {
+    text-align: left;
+    margin-left: 40px;
+    font-size: 50px;
+    color: grey;
+}
